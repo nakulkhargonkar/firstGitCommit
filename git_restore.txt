@@ -1,2 +1,4 @@
 this line that will be inside github
 this line will be in local commit but not in github remote repo
+this is third line & it will be in stagin area
+
